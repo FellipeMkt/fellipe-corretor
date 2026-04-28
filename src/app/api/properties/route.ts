@@ -4,7 +4,7 @@ import fs from "fs";
 import path from "path";
 
 const DATA_FILE = path.join(process.cwd(), "data", "properties.json");
-const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || "fellipe2024";
+const ADMIN_PASSWORD = "fellipe2024";
 
 function ensureDataFile() {
   const dir = path.dirname(DATA_FILE);
