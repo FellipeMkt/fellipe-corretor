@@ -147,7 +147,7 @@ export default function AdminPage() {
             </button>
           </div>
           <p className="text-center text-white/20 text-xs mt-4">
-            Senha padrão: <span className="text-white/40">fellipe2024</span>
+            Senha padrão: <span className="text-white/40"></span>
           </p>
         </div>
       </div>
